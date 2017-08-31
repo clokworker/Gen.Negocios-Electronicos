@@ -15,22 +15,21 @@ Entretenimiento para todos los gamers y jugadores ocasionales, todos en común c
 Cualquier persona que cuente con un equipo celular y/o computadora que le gusten los videojuegos del genero shooter. 
 
 <h2>Fechas de las iteraciones </h2>
-Iteración 1: 31/08/2017 – 06/09/2017
-Iteración 2: 07/09/2017 – 13/09/2017
-Iteración 3: 14/09/2017 – 20/09/2017
-Iteración 4: 21/09/2017 – 27/09/2017
-Iteración 5: 28/09/2017 – 04/10/2017
-Iteración 6: 05/10/2017 – 11/10/2017
-Iteración 7: 12/10/2017 – 18/10/2017
-Iteración 8: 19/10/2017 – 25/10/2017
-Iteración 9: 26/10/2017 – 01/11/2017
-Iteración 10: 02/11/2017 – 08/11/2017
-Iteración 11: 09/11/2017 – 15/11/2017
-Iteración 12: 16/11/2017 – 22/11/2017
-Iteración 13: 23/11/2017 – 29/11/2017
-Iteración 14: 30/11/2017 – 06/11/2017
-
-
-
+<ul>
+ <li><h4>Iteración 1: 31/08/2017 – 06/09/2017</h4></li>
+ <li><h4>Iteración 2: 07/09/2017 – 13/09/2017</li></h4>
+ <li><h4>Iteración 3: 14/09/2017 – 20/09/2017</h4></li>
+ <li><h4>Iteración 4: 21/09/2017 – 27/09/2017</li></h4>
+ <li><h4>Iteración 5: 28/09/2017 – 04/10/2017</h4></li>
+ <li><h4>Iteración 6: 05/10/2017 – 11/10/2017</li></h4>
+ <li><h4>Iteración 7: 12/10/2017 – 18/10/2017</h4></li>
+ <li><h4>Iteración 8: 19/10/2017 – 25/10/2017</li></h4>
+ <li><h4>Iteración 9: 26/10/2017 – 01/11/2017</h4></li>
+ <li><h4>Iteración 10: 02/11/2017 – 08/11/2017</li></h4>
+ <li><h4>Iteración 11: 09/11/2017 – 15/11/2017</h4></li>
+ <li><h4>Iteración 12: 16/11/2017 – 22/11/2017</li></h4>
+ <li><h4>Iteración 13: 23/11/2017 – 29/11/2017</h4></li>
+ <li><h4>Iteración 14: 30/11/2017 – 06/11/2017</li></h4>
+</ul>
 <h2>Retribución Económica </h2>
 El videojuego será totalmente gratis en cuestión de jugabilidad, se venderán artículos y accesorios que darán una pequeña facilidad al usuario, pero sin crear una ventaja significativa ante los demás usuarios. Se creará una tienda virtual dentro del juego que se encargará de la venta de estos. 
